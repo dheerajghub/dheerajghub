@@ -1,7 +1,16 @@
-### Hi there 👋
+## ``` Hi there 👋  I'm very passionate about iOS Development and UI/UX designing ```
+
+### About Me 
+
+- I'm Currently woking on one of my personal project `` Instaclone `` which is Instragram clone app in swift you can watch it <a href="https://codecanyon.net/item/instaclone-instagram-clone/24827677">here 👍 </a>
+
+- I'm a freelancer and love to share my knowledge by contributing to open source projects.
+
+- I've one <a href="https://www.instagram.com/dheeraj.iosdev"> `` instagram `` </a> page in which I try to share iOS content, Tips and may be some rough ideas... how i became what I am today, more intuitively hope you like thoes checkout if you haven't <a href="https://www.instagram.com/dheeraj.iosdev"> here 🙃 .</a>
 
 <!--
 **dheerajghub/dheerajghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
