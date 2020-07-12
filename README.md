@@ -6,7 +6,7 @@
 
 - I'm a freelancer and love to share my knowledge by contributing to open source projects.
 
-- I've one <a href="https://www.instagram.com/dheeraj.iosdev"> `` instagram `` </a> page in which I try to share iOS content, Tips and may be some rough ideas... how i became what I am today, more intuitively hope you like thoes checkout if you haven't <a href="https://www.instagram.com/dheeraj.iosdev"> here 🙃 .</a>
+- I've <a href="https://www.instagram.com/dheeraj.iosdev"> `` instagram `` </a> page in which I try to share iOS content, Tips and may be some rough ideas... how i became what I am today, more intuitively hope you like thoes checkout if you haven't <a href="https://www.instagram.com/dheeraj.iosdev"> here 🙃 .</a>
 
 <!--
 **dheerajghub/dheerajghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
