@@ -8,6 +8,8 @@
 
 - I've <a href="https://www.instagram.com/dheeraj.iosdev"> `` instagram `` </a> page in which I try to share iOS content, Tips and may be some rough ideas... how i became what I am today, more intuitively hope you like thoes checkout if you haven't <a href="https://www.instagram.com/dheeraj.iosdev"> here 🙃 .</a>
 
+- If you're beginner iOS developer do watch my `Pixel` repo it will cover your basic to advance concepts. And for learning animation and complex layouts in swift must watch `Design_to_code` series!
+
 ## And explore my repos to know more.... 👇
 
 <!--
