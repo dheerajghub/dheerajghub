@@ -1,4 +1,4 @@
-## ``` Hi there 👋  I'm Dheeraj and I'm very passionate about iOS Development and UI/UX designing ```
+## Hi there 👋  I'm Dheeraj and I'm very passionate about iOS Development and UI/UX designing 
 
 ### About Me 
 
