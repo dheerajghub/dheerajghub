@@ -8,7 +8,7 @@
 
 - Check my open source project `` Dovve `` which is Twitter clone app in swift using Twitter API. Watch <a href="https://github.com/dheerajghub/dovve">Dovve</a> repo below 👇
 
-- If you're beginner iOS developer do watch my `Pixel` repo it will cover your basic to advance concepts. And for learning animation and complex layouts in swift must watch `Design_to_code` series!
+- If you're beginner iOS developer do watch my `Pixel` repo it will cover your basic to advance concepts. And for learning animation and complex layouts in swift or SwiftUI must watch `Design_to_code` series!
 
 ## And explore my repos to know more.... 👇
 
