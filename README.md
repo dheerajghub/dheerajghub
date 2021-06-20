@@ -6,7 +6,7 @@
 
 - I've <a href="https://www.instagram.com/dheeraj.iosdev"> `` instagram `` </a> page in which I try to share iOS content, Tips and may be some rough ideas... how i became what I am today, more intuitively hope you like thoes. Checkout if you haven't <a href="https://www.instagram.com/dheeraj.iosdev"> here 🙃 .</a>
 
-- Check my open source project `` Dovve `` which is Twitter clone app in swift using Twitter API. Watch <a href="https://github.com/dheerajghub/dovve">Dovve</a> repo below 👇
+- Check my open source project `` Quotes App `` which is Quotes browsing app in SwiftUI using Quotable Free API. Watch <a href="https://github.com/dheerajghub/Quotes-App">Quotes App</a> repo below 👇
 
 - If you're beginner iOS developer do watch my `Pixel` repo it will cover your basic to advance concepts. And for learning animation and complex layouts in swift or SwiftUI must watch `Design_to_code` series!
 
