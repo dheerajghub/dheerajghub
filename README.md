@@ -24,18 +24,20 @@
    </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=dheerajghub&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
   <img src="https://github-profile-trophy.vercel.app/?username=dheerajghub&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
-</p>
+</p> -->
 
 ## Languages and Tools I use
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
   
 ## Connect with me
-<p align="left">
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheerajin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dheeraj.iosdev) 
+
+<!-- <p align="left">
 <a href="https://linkedin.com/in/dheerajin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheerajin" height="30" width="40" /></a>
 <a href="https://instagram.com/dheeraj.iosdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dheeraj.iosdev" height="30" width="40" /></a>
-</p>
+</p> -->
 
 ### Explore my repos to know more.... 👇
