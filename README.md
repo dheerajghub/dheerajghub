@@ -29,7 +29,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dheerajghub&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
 </p> -->
 
-## Languages and Tools I use
+## Languages and Tools I used
 <p align="left"> 
   <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
