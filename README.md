@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=dheerajghub&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajghub" />
+
 ## Hi there 👋  I'm Dheeraj and I'm very passionate about iOS Development and UI/UX designing 
 
 <!-- 
