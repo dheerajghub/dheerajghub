@@ -10,7 +10,7 @@
 
 - I'm a self taught iOS Developer and love to share my knowledge by contributing to open source projects.
 
-- I've <a href="https://www.instagram.com/dheeraj.iosdev"> `` instagram `` </a> page in which I try to share iOS content, Tips and may be some rough ideas... how i became what I am today, more intuitively hope you like thoes. Checkout if you haven't <a href="https://www.instagram.com/dheeraj.iosdev"> here 🙃 .</a>
+- I've an <a href="https://www.instagram.com/dheeraj.iosdev"> `` instagram `` </a> page in which i share iOS content, Tips and may be some rough ideas... how i became what I am today, more intuitively hope you like thoes. Checkout if you haven't <a href="https://www.instagram.com/dheeraj.iosdev"> here 🙃 .</a>
 
 - Check my open source project `` Quotes App `` which is Quotes browsing app in SwiftUI using Quotable Free API. Watch <a href="https://github.com/dheerajghub/Quotes-App">Quotes App</a> repo below 👇
 
