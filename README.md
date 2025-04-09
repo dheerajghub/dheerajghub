@@ -22,9 +22,6 @@
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajghub&show_icons=true&locale=en" alt="dheerajghub" />
     </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajghub&" alt="dheerajghub" />
-    </td>
    </tr>
 </table>
 
