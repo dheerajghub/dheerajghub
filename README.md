@@ -17,13 +17,13 @@
 - If you're beginner iOS developer do watch my `Pixel` repo it will cover your basic to advance concepts. And for learning animation and complex layouts in swift or SwiftUI must watch `Design_to_code` series! 
 
 
-<table cellspacing="0" cellpadding="0" style="border:none;">
+<!-- <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajghub&show_icons=true&locale=en" alt="dheerajghub" />
     </td>
    </tr>
-</table>
+</table> -->
 
 <!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=dheerajghub&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
